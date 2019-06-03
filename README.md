@@ -1,6 +1,6 @@
 # MACS 30250 - Perspectives on Computational Research in Economics (Spring 2019)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TA: [Zunda (Winston) Xu)](https://github.com/zundaxu) |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | TA: [Zunda (Winston) Xu](https://github.com/zundaxu) |
 |--------------|--------------------------------------------------------------|----------------------------------------------------|
 | Email | rwevans@uchicago.edu | zunda@uchicago.edu |
 | Office | 208 McGiffert House |                    |
@@ -77,16 +77,16 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 29 | M |  |  | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
 | May  1 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
 | May  6 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
-| May  8 | W | Dynamic programming with interpolation | Notes | PS2 |
+| May  8 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [PS2](Assignments/PS2/PS2.pdf) |
 | May 13 | M | Dynamic programming with interpolation |  |  |
-| May 15 | W | Overlapping generations models | Notes | PS3 |
+| May 15 | W | Overlapping generations models | [Notes](Notes/OGtext_ch02.pdf) | [PS3](Assignments/PS3/PS3.pdf) |
 | May 20 | M | Overlapping generations models |  |  |
-| May 22 | W | Workshop papers/office visits |   | Methods/initial results section |
+| May 22 | W | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) | [Methods/initial results section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/methods-results.md) |
 | May 27 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 29 | W | Effective presentations, poster,slides | Notes  |  |
-| Jun  3 | M | Markov and hidden Markov models | Notes | PS 4 |
-| Jun  5 | W | In-class poster presentations |  | Poster |
-| Jun  9 | Su | Final papers due at 11:59pm |  | Papers due |
+| May 29 | W | Effective presentations, poster, slides | [Notes](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md)  |  |
+| Jun  3 | M | Markov and hidden Markov models | [Notebk](Notebooks/Markov/Markov.ipynb) | [PS 4](Assignments/PS4/PS4.pdf) |
+| Jun  5 | W | In-class poster presentations |  | [Poster](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md) |
+| Jun  12 | W | Final papers due at 11:59pm |  | [Papers due](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/final-paper.md) |
 
 
 ## References and Readings
